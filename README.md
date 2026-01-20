@@ -1,5 +1,4 @@
 # OCR-Question-Answer-System
-# OCR‑Question‑Answer‑System
 
 An OCR‑powered question‑answering system that extracts text from documents or images and answers questions based on extracted content.
 
